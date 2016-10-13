@@ -9,14 +9,14 @@ Time spent: `<Number of hours spent>`
 ### Required
 
 - [x] Completed Requireds marked with `[x]`
-- [ ] Walkthrough Gif embedded in README
-- [x] README `Time spent: 5` includes the number of hours spent on the assignment
+- [x] Walkthrough Gif embedded in README
+- [x] README `Time spent:` includes the number of hours spent on the assignment
 - [x] `echo.js` prints the first argument to stdout
 - [x] `cat.js` prints the contents of the first argument to stdout
-- [ ] `touch.js` updates the modified date of the first argument
-- [ ] `ls.js` recursively lists the files of the first argument
+- [x] `touch.js` updates the modified date of the first argument
+- [x] `ls.js` recursively lists the files of the first argument
 - [x] `mkdir.js` create a directory at the first argument
-- [ ] `rm.js` deletes any file or directory at the first argument 
+- [x] `rm.js` deletes any file or directory at the first argument 
 
 ### Optionals
 
@@ -25,6 +25,7 @@ Time spent: `<Number of hours spent>`
 - [ ] `grep.js` supports a regex as the second arguments
 
 ## Walkthrough Gif:
+![alt tag](https://github.com/hvyas/codepath_assignment_w1/blob/master/week1_assignment_walkthrough.gif)
 
 `<Add your Walkthrough Gif here (by updating the image URL)>`
 ![Video Walkthrough](...)
